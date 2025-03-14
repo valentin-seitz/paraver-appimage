@@ -1,0 +1,7 @@
+[submodule "wxparaver"]
+	path = wxparaver
+	url = https://github.com/valentin-seitz/wxparaver.git
+	branch = pep
+[submodule "paraver-kernel"]
+	path = paraver-kernel
+	url = https://github.com/valentin-seitz/paraver-kernel.git
